@@ -1,1 +1,1 @@
-# embodied-ai-journey
+# 具身智能学习记录
