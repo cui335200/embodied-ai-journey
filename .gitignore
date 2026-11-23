@@ -221,3 +221,6 @@ __marimo__/
 data/
 *.pt
 .vscode/
+*.tar.gz
+wget-log
+.vscode/
